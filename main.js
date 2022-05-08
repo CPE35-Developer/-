@@ -48,4 +48,6 @@ async function main() {
     return Promise.reject(new Error('Golf Ixq Au Pooh Nath cum here'))
 }
 
+main()
+
 
