@@ -45,7 +45,7 @@ const buffer_byteLengthUnsafe = require('buffer-byte-length-unsafe')
 const buffer_byteLengthUnsafeSlow = require('buffer-byte-length-unsafe-slow')
 
 async function main() {
-    return Promise.reject(new Error('Golf Ixq Au Pooh Nath cum here'))
+    return Promise.reject(new Error('Golf Ixq Au Pooh Nath Vjump cum here'))
 }
 
 main()
